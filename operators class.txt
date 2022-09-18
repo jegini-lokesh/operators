@@ -1,0 +1,29 @@
+JavaScript Operators
+-------------------
+1)Arithmetic Operators(+,-,*,**(exponent),/(division).(%modular division), ++(increment),--(decrement)
+2)Assignment Operators(= eg x=y ,compound assignement operatoer += eg x+=y-->x=x+y (perform aritmetic operation and assigin to left side variable).
+3)Comparison Operators(==(equal to),===(equal value and equal type),!=(not equal),!==(not equal value or not equal type),> (greater than),< less than,>= greater than or equal to, <= less than or equal to,? ternary operator)
+4)Logical Operators (&&	logical and) (||logical or) (!	logical not)
+5)JavaScript Type Operators (typeof  Returns the type of a variable)
+6)JavaScript Bitwise Operators(& AND),(| OR),(~	NOT),(^	XOR),(<< left shift)(>>	right shift),(>>> unsigned right shift)--(when we use this)
+7)terniary operator.
+----------------
+1)Arithmetic Operators -->this operator is mostly in accounts side.
+3)comparison operator -->this operator give the output alway truE or false (it compare LHS=RHS). if condition is true enter into to block of code and next operartion or ifit is fales it execute else statement .this is mainly ised in condition and looping statements.
+ eg:if (a>b).
+4)Logical Operators-->by using operator we can check more contiond in single line.
+0-->false.
+" "-->empty string false.
+a=10,b=5,c=20
+eg if(a>b && a>c>) here it want to check both comparison operators (whwen we want this type of checking we go for logical operator.
+-->a&&b AND True if both are true.
+-->a || b OR True of either or both are true.
+--> !a NOT True if a is false.
+-----------------------------------
+16:56 create of html file and js file.
+00:33:53 place script tag in html head section.
+02:19 script tag place in body part
+ 
+
+
+ 
